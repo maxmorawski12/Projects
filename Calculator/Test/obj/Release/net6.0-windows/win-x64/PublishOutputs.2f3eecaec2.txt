@@ -1,0 +1,2 @@
+C:\Users\donma\source\repos\Test\Test\bin\Release\net6.0-windows\publish\win-x64\Test.pdb
+C:\Users\donma\source\repos\Test\Test\bin\Release\net6.0-windows\publish\win-x64\Test.exe

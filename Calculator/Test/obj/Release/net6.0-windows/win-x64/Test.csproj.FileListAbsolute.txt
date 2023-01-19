@@ -1,0 +1,17 @@
+C:\Users\donma\source\repos\Test\Test\bin\Release\net6.0-windows\win-x64\Test.exe
+C:\Users\donma\source\repos\Test\Test\bin\Release\net6.0-windows\win-x64\Test.deps.json
+C:\Users\donma\source\repos\Test\Test\bin\Release\net6.0-windows\win-x64\Test.runtimeconfig.json
+C:\Users\donma\source\repos\Test\Test\bin\Release\net6.0-windows\win-x64\Test.dll
+C:\Users\donma\source\repos\Test\Test\bin\Release\net6.0-windows\win-x64\Test.pdb
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.csproj.AssemblyReference.cache
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.Form1.resources
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.csproj.GenerateResource.cache
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.AssemblyInfoInputs.cache
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.AssemblyInfo.cs
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.csproj.CoreCompileInputs.cache
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.dll
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\refint\Test.dll
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.pdb
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\Test.genruntimeconfig.cache
+C:\Users\donma\source\repos\Test\Test\obj\Release\net6.0-windows\win-x64\ref\Test.dll
